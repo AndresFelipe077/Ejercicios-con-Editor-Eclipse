@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;cantidadLetras&apos; in &apos;Logica.Condiciones_Anidadas_Simples.NumeroLetras()&apos; to &apos;numeroEnLetras&apos;&#x0D;&#x0A;- Original project: &apos;Ensayo_Propio&apos;&#x0D;&#x0A;- Original element: &apos;Logica.Condiciones_Anidadas_Simples.NumeroLetras().cantidadLetras&apos;&#x0D;&#x0A;- Renamed element: &apos;cantidadLetras&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;cantidadLetras&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;Logica{Condiciones_Anidadas_Simples.java[Condiciones_Anidadas_Simples~NumeroLetras@cantidadLetras!4950!4978!4957!4970!QString;!0!false" name="numeroEnLetras" references="true" stamp="1657407629878" version="1.0"/>
+</session>

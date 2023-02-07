@@ -1,0 +1,33 @@
+package bucles1;
+
+public class bucles1 {
+	
+	public static void main(String [] args)
+	{
+		/*
+		for(int i = 9;i <= 10; i++)
+		{
+			System.out.println("7 * " + i + " = " + (i*7));
+		}//Cierra llave
+		*/
+		/*
+		for (int i = 0; i<=10;i++) {
+			
+			System.out.println("9 * " + i + " = " + (i*9));
+					
+		}*/
+		
+		for (int i = 16;i<=20;i+=2) {
+			if (i ==18) {
+				System.out.println("esta bien la suma");
+			}
+		}
+		
+		
+		
+		
+		
+	}
+	
+
+}

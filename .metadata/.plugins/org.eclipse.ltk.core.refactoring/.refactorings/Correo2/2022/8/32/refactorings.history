@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;Correo2&apos;&#x0D;&#x0A;- Original project: &apos;Correo2&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     javax.activation-1.1.0.v201105071233.jar&#x0D;&#x0A;     javax.ejb.jar&#x0D;&#x0A;     javax.faces-api-2.0.jar&#x0D;&#x0A;     javax-inject.jar" description="Delete elements" element1="LibreriasProyectoCorreo/javax.activation-1.1.0.v201105071233.jar" element2="LibreriasProyectoCorreo/javax.faces-api-2.0.jar" element3="LibreriasProyectoCorreo/javax.ejb.jar" element4="LibreriasProyectoCorreo/javax-inject.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1659378783996" subPackages="false" version="1.0"/>
+</session>
